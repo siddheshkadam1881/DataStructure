@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <script type="text/javascript" src="unOrderedList.js"></script>
+  </head>
+  <body>
+  <div align="center">
+    <br><br>
+    *<input id="sentence" type="text" name="sentence" placeholder="Enter sentence" size="35" >
+    <br><br>
+    *<input id="word" type="text" name="word" placeholder="Enter word to search in above sentence" size="35">
+    <br><br>
+    <input type="button" value="search" onclick="search()">
+  </div>
+  </body>
+</html>

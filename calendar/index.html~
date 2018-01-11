@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <script type="text/javascript" src="calenderOfTheMonth.js"></script>
+  </head>
+  <body>
+    <div align="center">
+    <h2>Show Calender of the Month</h2>
+    <input id="month" type="number" name="month"/>
+    <input id="year" type="number" name="year" />
+    <input type="button" value="search" onClick="calenderOfTheMonth()">
+    <p id="demo"></p>
+   </div>
+  </body>
+</html>
